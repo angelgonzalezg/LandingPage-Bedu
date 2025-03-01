@@ -1,0 +1,40 @@
+
+/* Creating a class in CSS */
+.heading {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    unicode-bidi: isolate;
+}
+
+h1 {
+    color: #1b757e;
+}
+
+.image {
+    width: 400px;
+}
+
+body {
+    background-color: #86cece;
+    margin: 0;
+}
+
+.primaryButton {
+    background-color: #eae4e4;
+}
+
+.logo {
+    width: 50px;
+    /* margin-top: 40px;
+    margin-left: 20px;
+    margin-right: 20px;*/
+    margin: auto;
+    display: inline;
+    /* padding: 40px; */
+    border: solid 3px rgb(0, 255, 0);
+}
